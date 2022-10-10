@@ -1,4 +1,4 @@
-- 🔭 I’m currently working on bettering my programming skills via a training course
-- 🌱 I’m currently learning C# FullStack
+- 🔭 I’m currently working on projects to help perfect and improve my programming skills
+- 🌱 I have a strong understanding of the .Net Fullstack paired with C# as my preferred programming language
 - 📫 How to reach me: baileybarton77@gmail.com
 - ⚡ Fun fact: I enjoy playing video games when I can, but havn't actually made one yet via any game engine
